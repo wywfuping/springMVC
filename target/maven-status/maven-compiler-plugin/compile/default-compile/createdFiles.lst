@@ -1,2 +1,4 @@
-com\yawei\cotroller\HomeController.class
+com\yawei\pojo\User.class
 com\yawei\cotroller\UserController.class
+com\yawei\cotroller\HomeController.class
+com\yawei\cotroller\RestfulController.class

@@ -2,9 +2,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>list</title>
+    <title>del</title>
 </head>
 <body>
-    <h3>users list 我喜欢这个功利的世界</h3>
+    <h3>del user</h3>
 </body>
 </html>
